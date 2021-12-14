@@ -3,7 +3,7 @@
 ## Setup dotfiles in a new computer
 - Clone github repo
 ```shell
-git clone --bare git@github.com:OscarAguilarL/dotfiles-wsl2.git $HOME/.dotfiles
+git clone --bare git@github.com:OscarAguilarL/dotfiles.git $HOME/.dotfiles
 ```
 
 - Define the alias in the current scope
